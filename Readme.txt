@@ -1,0 +1,1 @@
+This project was created and compiled as a GLUT project in CodeBlock. The code works exactly as desired in CodeBlock. Its workability on other platforms has not been tested.
